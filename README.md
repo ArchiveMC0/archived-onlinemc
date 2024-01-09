@@ -3,6 +3,8 @@
 ## EaglerArchives Discord: https://discord.gg/f5pD6Whx
 
 ## You can deploy on Replit, Oracle, Vercel, Render, Netlify, Heroku, Glitch, Amplify Console, IBM Cloud, and Google Cloud.
-# Connect your GitHub account because I do not know how to link deployment apps, sorry.
+Connect your GitHub account because I do not know how to link deployment apps, sorry. If you wanna help me, you can!
+
+# radmanplays deployment links have been removed from README because it will block your deployment.
 
 ## OnlineMC Website: https://sites.google.com/view/online-mc
