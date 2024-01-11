@@ -6,8 +6,7 @@
 Please go to the discord for bug reports.
 ## EaglerArchives Discord: https://discord.gg/f5pD6Whx
 
-## You can deploy on Oracle, Vercel, Render, Netlify, Heroku, Glitch, Amplify Console, IBM Cloud, and Google Cloud.
-Connect your GitHub account because I do not know how to link deployment apps, sorry. If you wanna help me, you can!
+# Do whatever you want to this repo, i dont really care because this is open source. If you encounter any bugs or problems, just dm me.
 
 # radmanplays deployment links have been removed from README because the original deploy link connected to radman is linked to OnlineMC before the DMCA.
 
