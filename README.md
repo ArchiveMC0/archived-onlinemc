@@ -1,5 +1,5 @@
 # this repo is the source code of this website (dmca'd): https://onlinemc.vercel.app/
-# this repo has been saved from being deleted forever.
+# this repo has been saved from being deleted forever. no code was tampered with or skidded, everything is kept original.
 
 # Do whatever you want to this repo, i dont really care because this is open source. If you encounter any bugs or problems, just dm me.
 
